@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.javaprojects.ems.entity.Employee;
+import com.javaprojects.ems.model.Employee;
 import com.javaprojects.ems.repository.EmployeeRepository;
 import com.javaprojects.ems.service.EmployeeService;
 

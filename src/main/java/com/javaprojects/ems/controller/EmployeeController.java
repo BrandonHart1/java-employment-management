@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import com.javaprojects.ems.entity.Employee;
+import com.javaprojects.ems.model.Employee;
 import com.javaprojects.ems.service.EmployeeService;
 
 @Controller

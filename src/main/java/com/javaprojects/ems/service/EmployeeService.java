@@ -2,7 +2,7 @@ package com.javaprojects.ems.service;
 
 import java.util.List;
 
-import com.javaprojects.ems.entity.Employee;
+import com.javaprojects.ems.model.Employee;
 
 public interface EmployeeService 
 {
